@@ -1,6 +1,6 @@
 # Covid-19-Analysis-Prediction
 
-In this project, I have collected data from below data source, performed data cleaning & data transformation using python and have designed Dashboards in Power Bi for Global and India Covid 19 Analysis.
+A Data Analytics project wherein Data Cleaning & Data Transformation is performed on the Global Covid 19 Database using Python and visually appealing Dashboards have been created in MS Power Bi visualization tool for Global and India Covid 19 Analysis and Prediction.
 
 Tools Used: Python, Microsoft PowerBI, MS Excel
 
